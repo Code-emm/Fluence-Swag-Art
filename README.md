@@ -1,5 +1,0 @@
-# Fluence-Swag-Art![01 png](https://user-images.githubusercontent.com/86200112/156910857-18f088be-8e2c-4969-a793-8255d680df26.png)
-![02 png](https://user-images.githubusercontent.com/86200112/156910859-9ce24e17-ae66-4041-a2d4-d38f0e498f22.png)
-![03 png](https://user-images.githubusercontent.com/86200112/156910869-27f6bff1-85aa-45f6-a5ef-f3ad6eb7ef7b.png)
-![04 png](https://user-images.githubusercontent.com/86200112/156910871-c7a749dc-c21e-41f0-9ff6-0ec972db26e7.png)
-![05 PNG](https://user-images.githubusercontent.com/86200112/156910872-f93145ba-0ecd-4f97-bbbd-9a2ec4fb929e.png)
